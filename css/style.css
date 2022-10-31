@@ -1,0 +1,849 @@
+.headera .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.logo .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.company .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.built .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.companya .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.logobox .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.paritur .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.service .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.portfolio .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.team .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.pricing .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.questions .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.teamp .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.contactus .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.detail .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+.website .wrapper
+{
+		width:80%;
+	margin:auto;
+}
+
+.headera
+{
+	background-color:beige;
+	height:81px;
+}
+.headera .headera-fc
+{
+	display:flex;
+	justify-content:space-between;
+	
+}
+.headera .headera-fc .heada
+{
+	background-color:pink;
+	height:65px;
+	width:30%;
+	margin-top:10px;
+	
+}
+.headera .headera-fc .hcon
+{
+	background-color:beige;
+	height:81px;
+	width:50%;
+	display:flex;
+	justify-content:space-evenly;
+	
+}
+.headera .headera-fc .hcon .headb
+{
+	background-color:green;
+	height:40px;
+	width:15%;
+		margin-top:15px;
+}
+.headera .headera-fc .hcon .headc
+{
+	background-color:green;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .headd
+{
+	background-color:green;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .heade
+{
+	background-color:red;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+
+
+.logo 
+{
+	background-color:lightgray;
+	height:830px;
+}
+.logo .logo-fc
+{
+display:flex;
+	flex-direction:column;
+	justify-content:start-end;
+}
+.logo .logo-fc .logob
+{
+	background-color:white;
+	height:239px;
+	width:50%;
+	margin-top:200px;
+}
+
+.logo .logo-fc .logotext
+{
+	background-color:white;
+	height:43px;
+	width:15%;
+	margin-top:100px;
+}
+
+.company 
+{
+	background-color:lightgray;
+	height:150px;
+}
+.company .company-fc 
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+}
+.company .company-fc .cba
+{
+	background-color:pink;
+	height:76px;
+	width:18%;
+	margin-top:20px;
+}
+.company .company-fc .cbb
+{
+	background-color:pink;
+	height:76px;
+	width:18%;
+	margin-top:20px;
+}
+.company .company-fc .cbc
+{
+background-color:pink;
+	height:76px;
+	width:18%;
+	margin-top:20px;
+}
+.company .company-fc .cbd
+{
+background-color:pink;
+	height:76px;
+	width:18%;
+	margin-top:20px;
+}
+.company .company-fc .cbe
+{
+	background-color:pink;
+	height:76px;
+	width:18%;
+	margin-top:20px;
+}
+.built 
+{
+	background-color:lightyellow;
+	height:400px;
+}
+.built .built-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.built .built-fc .builttext
+{
+	text-align:left;
+	width:49%;
+}
+.built .built-fc .builtboxa
+{
+background:lightblue;
+	height:350px;
+	width:49%;
+	margin-top:10px;
+}
+
+
+.companya 
+{
+	background-color:lightgray;
+	height:200px;
+}
+.companya .companya-fc 
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+}
+.companya .companya-fc  .ca
+{
+	background-color:red;
+	height:145px;
+	width:12%;
+	margin-top:20px;
+}
+.companya .companya-fc  .cb
+{
+	background-color:red;
+	height:145px;
+	width:12%;
+	margin-top:20px;
+}
+.companya .companya-fc  .cc
+{
+background-color:red;
+	height:145px;
+	width:12%;
+	margin-top:20px;
+}
+.companya .companya-fc  .cd
+{
+background-color:red;
+	height:145px;
+	width:12%;
+	margin-top:20px;
+}
+
+.logobox
+{
+	background-color:skyblue;
+	height:215px;
+	
+}
+.logobox .logobox-fc
+{
+	display:flex;
+	justify-content:space-evenly;;
+}
+.logobox .logobox-fc .la
+{
+	background-color:lightgreen;
+	height:150px;
+	width:20%;
+	margin-top:20px;
+}
+.logobox .logobox-fc .lb
+{
+	background-color:lightgreen;
+	height:150px;
+	width:20%;
+	margin-top:20px;
+}
+.logobox .logobox-fc .lc
+{
+	background-color:lightgreen;
+	height:150px;
+	width:20%;
+	margin-top:20px;
+}
+.logobox .logobox-fc .ld
+{
+background-color:lightgreen;
+height:150px;
+	width:20%;
+	margin-top:20px;
+}
+.paritur
+{
+		background-color:beige;
+	 height:600px;
+}
+.paritur .paritur-fc
+{
+	display:flex;
+	flex-direction:row;
+} 
+
+.paritur .paritur-fc .pbox
+{
+	background-color:crimson;
+	width:46%;
+	height:516px;
+	margin-top:10px;
+}
+.paritur .paritur-fc .ptext
+{
+	text-align:center;
+    margin-top:10px;
+	width:46%;
+}        
+
+.service
+{
+		background-color: lightblue;
+	height:600px;
+}
+.service .service-fc
+
+{
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	flex-wrap:wrap;
+
+}
+.service .service-fc .ser
+{
+	text-align:center;
+margin-top:50px;
+width:100%
+}
+.service .service-fc .tempa 
+
+{
+	background-color:lightpink;
+	height:100px;
+	width:45%;
+	margin-top:15px;
+
+}
+.service .service-fc .tempb
+{
+		background-color:lightpink;
+	height:100px;
+	width:45%;
+	margin-top:15px;
+
+}
+.service .service-fc .tempc
+{
+background-color:lightpink;
+	height:100px;
+		width:45%;
+	margin-top:15px;
+}
+.service .service-fc .tempd
+{
+	background-color:lightpink;
+	height:100px;
+		width:45%;
+	margin-top:15px;
+}
+.service .service-fc .tempd
+{
+	background-color:lightpink;
+	height:100px;
+		width:45%;
+	margin-top:15px;
+}
+.service .service-fc .tempe
+{
+background-color:lightpink;
+	height:100px;
+		width:45%;
+	margin-top:15px;
+}
+.service .service-fc .tempf
+{
+	background-color:lightpink;
+	height:100px;
+		width:45%;
+	margin-top:15px;
+}
+
+.portfolio
+{
+	background-color:beige;
+	height:1100px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+.portfolio .portfolio-fc .textport
+{
+	text-align:center;
+	width:100%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .porta
+{
+	background-color:seagreen;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portb
+{
+background-color:seagreen;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portc
+{
+	background-color:seagreen;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portd
+
+{
+	background-color:seagreen;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .porte
+{
+	background-color:seagreen;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portf
+{
+	background-color:seagreen;
+	height:309px;
+	width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .portg
+
+{
+	background-color:seagreen;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .porth
+{
+	background-color:seagreen;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+.portfolio .portfolio-fc .porti
+{
+	background-color:seagreen;
+	height:309px;
+		width:31%;
+			margin-top:30px;
+}
+
+.team
+{
+	background-color:lightgreen;
+	height:500px;
+}
+.team .team-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	
+}
+.team .team-fc .textteam
+{
+	text-align:center;
+	width:100%;
+	margin-top:40px;
+}
+.team .team-fc .teama
+{
+	background-color:lightblue;
+	height:232px;
+		width:31%;
+		margin-top:30px;
+}
+.team .team-fc .teamb
+{
+background-color:lightblue;
+	height:232px;
+		width:31%;
+		margin-top:30px;
+}
+.team .team-fc .teamc
+{
+background-color:lightblue;
+	height:232px;
+		width:31%;
+		margin-top:30px;
+}
+.questions
+{
+	background-color:crimson;
+	height:700px;
+}
+.questions .questions-fc
+{
+	display:flex;
+	flex-direction:column;
+	flex-wrap:wrap;
+	align-items:center;
+}
+.questions .questions-fc .textques
+{
+	text-align:center;
+	width:100%;
+	margin-top:25px;
+}
+.questions .questions-fc .quebig
+{
+	background:lightblue;
+	height:70px;
+	width:80%;
+		margin-top:30px;
+}
+.questions .questions-fc .quea
+{
+	background:lightblue;
+	height:70px;
+	width:80%;
+		margin-top:30px;
+}
+.questions .questions-fc .queb
+{
+	background:lightblue;
+	height:70px;
+width:80%;
+		margin-top:30px;
+}
+.questions .questions-fc .quec
+{
+	background:lightblue;
+	height:70px;
+width:80%;
+		margin-top:30px;
+}
+.questions .questions-fc .qued
+{
+	background:lightblue;
+	height:70px;
+	width:80%;
+		margin-top:30px;
+		
+		
+}
+.pricing 
+{
+	background-color:lightblue;
+	height:710px;
+}
+.pricing  .pricing-fc
+{
+
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.pricing  .pricing-fc .pric
+{
+	text-align:center;
+	width:100%;
+	margin-top:20px;
+}
+.pricing  .pricing-fc .blogtext 
+{
+	text-align:center;
+	width:100%;
+	margin-top:40px;
+}
+.pricing  .pricing-fc .bloga
+{
+	background:gray;
+	height:419px;
+	width:22%;
+		margin-top:40px;
+
+}
+.pricing  .pricing-fc .bloga .blogbut
+{
+	background-color:pink;
+	width:100%;
+margin-top:360px;
+	
+}
+
+.pricing  .pricing-fc .blogb
+{
+background:gray;
+	height:419px;
+	width:22%;
+		margin-top:40px;
+}
+.pricing  .pricing-fc .blogb .blogbuta
+{
+	background-color:pink;
+	width:100%;
+	margin-top:360px;
+}
+
+.pricing  .pricing-fc .blogc
+{
+background:gray;
+	height:419px;
+	width:22%;
+		margin-top:40px;
+}
+.pricing  .pricing-fc .blogc .blogbutb
+{
+	background-color:pink;
+	width:100%;
+		margin-top:360px;
+}
+
+.teamp
+{
+	background-color:lightgreen;
+	height:500px;
+}
+.teamp .teamp-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	
+}
+.teamp .teamp-fc .textteamp
+{
+	text-align:center;
+	width:100%;
+	margin-top:40px;
+}
+.teamp .teamp-fc .teampa
+{
+	background-color:lightpink;
+	height:350px;
+		width:22%;
+		margin-top:30px;
+}
+.teamp .teamp-fc  .teampb
+{
+	background-color:lightpink;
+	height:350px;
+		width:22%;
+		margin-top:30px;
+}
+.teamp .teamp-fc .teampc
+{
+	background-color:lightpink;
+	height:350px;
+		width:22%;
+		margin-top:30px;
+}
+.teamp .teamp-fc .teampd
+{
+	background-color:lightpink;
+	height:350px;
+		width:22%;
+		margin-top:30px;
+}
+.contactus
+{
+	background-color:beige;
+	height:615px;
+}
+.contactus .contactus-fc
+{
+display:flex;
+flex-direction:row;
+justify-content:space-between;
+flex-wrap:wrap;	
+}
+.contactus .contactus-fc .context
+{
+	text-align:center;
+	margin-top:10px;
+	width:100%;
+}
+
+.contactus .contactus-fc .cona
+{
+	background-color:gray;
+	height:500px;
+	width:46%;
+	margin-top:10px;
+		display:flex;
+		flex-direction:row;
+		flex-wrap:wrap;	
+		justify-content:space-evenly;
+		
+}
+.contactus .contactus-fc .cona .conaa
+{
+	background-color:pink;
+	height:200px;
+	width:100%;
+	margin-top:20px;
+}
+.contactus .contactus-fc  .cona .conab
+{
+	background-color:pink;
+	height:200px;
+	width:43%;
+	margin-top:20px;
+}
+.contactus .contactus-fc .cona .conac
+{
+	background-color:pink;
+	height:200px;
+	width:43%;
+	margin-top:20px;
+}
+
+.contactus .contactus-fc .conb
+{
+	background-color:lightgreen;
+	height:500px;
+	width:46%;
+	margin-top:10px;
+		display:flex;
+		flex-direction:row;
+		flex-wrap:wrap;	
+		justify-content:space-evenly;
+		
+}
+
+.contactus .contactus-fc .conb .conba
+{
+	background-color:crimson;
+	height:30px;
+	width:40%;
+	margin-top:400px;
+}
+
+.detail 
+{
+	background-color: violet ;
+	height:343px;
+}
+.detail .detail-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.detail .detail-fc .deta
+{
+		background-color:beige;
+	height:241px;
+		width:22%;
+		margin-top:20px;
+}
+.detail .detail-fc .detb
+{
+		background-color:beige;
+	height:241px;
+		width:22%;
+		margin-top:20px;
+}
+.detail .detail-fc .detc
+{
+		background-color:beige;
+	height:241px;
+		width:22%;
+		margin-top:20px;
+}
+.detail .detail-fc .detd
+{
+	background-color:beige;
+	height:241px;
+		width:22%;
+		margin-top:20px;
+}
+.website
+{
+	background-color :black;
+	height:100px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.website .website-fc .copyright
+{
+	background-color:white;
+	width:20%;
+	height:35px;
+	margin-top:20px;
+}
+
+
+
+
+
+
+
+
+
+
